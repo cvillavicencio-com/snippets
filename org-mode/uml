@@ -1,0 +1,9 @@
+# -*- mode: snippet -*-
+# name: plantuml_diagram
+# key: uml
+# --
+
+#+begin_src plantuml :file $1.png
+
+
+#+end_src

@@ -1,0 +1,10 @@
+# -*- mode: snippet -*-
+# name: plantuml
+# key: plantuml
+# --
+
+# M-x eval-region
+(setq org-plantuml-jar-path (expand-file-name "/home/cam/.emacs.d/plantuml.jar"))
+(add-to-list 'org-src-lang-modes '("plantuml" . plantuml))
+(org-babel-do-load-languages 'org-babel-load-languages '((plantuml . t)))
+

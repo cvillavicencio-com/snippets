@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: primary key
+# key: pk
+# --
+PRIMARY KEY NOT NULL AUTO_INCREMENT,

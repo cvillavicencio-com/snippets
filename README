@@ -1,7 +1,7 @@
-## le what?
+** le what?
 collection of yas-snippets, mostly writtn by me (if not, link in comment)
 
-## index:
+** index:
 css-mode
 - 0100: animation 0% to 100%
 - fromto: animation from to to
@@ -21,10 +21,10 @@ web-mode
 - display_errors: show errors in page (php block)
 
 
-## TODO
+** TODO
 - config something to web-mode use php-mode snippets. i knw it could be done, but not time now to find it.
 
-## interestinguseful links:
+** interestinguseful links:
 - https://emacstil.com/til/2021/09/28/yasnippet/
 - http://www.howardism.org/Technical/Emacs/templates-tutorial.html
 - https://practical.li/blog-staging/posts/writing-custom-snippets-for-yasnippets/

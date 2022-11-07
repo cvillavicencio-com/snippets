@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: sql fetch row
+# key: sqlfetchrow
+# --
+$$1S = \"$2\";
+$$1Q = $conn->query($$1S);
+$$1L = $$1Q->fetch_row();

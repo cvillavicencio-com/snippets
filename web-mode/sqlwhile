@@ -1,0 +1,11 @@
+# -*- mode: snippet -*-
+# name: sql while
+# key: sqlwhile
+# --
+$$1S = \"$2\";
+$$1Q = $conn->query($$1S);
+if ($$1Q->num_rows > 0) {
+    while($$1L = $$1Q->fetch_assoc()) {
+        $3
+    }
+}

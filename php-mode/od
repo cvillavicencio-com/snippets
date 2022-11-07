@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: or die (sql)
+# key: od
+# --
+
+or die(mysqli_error($0));

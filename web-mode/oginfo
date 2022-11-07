@@ -1,0 +1,9 @@
+# -*- mode: snippet -*-
+# name: oginfo
+# key: oginfo
+# --
+
+<meta content="$1" property="og:title">
+<meta content="$2" property="og:description">
+<meta content="$3" property="og:url">
+<meta content="$4" property="og:site_name">

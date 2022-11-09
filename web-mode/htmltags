@@ -1,0 +1,26 @@
+# -*- mode: snippet -*-
+# name: basic html tags
+# key: htmltags
+# --
+
+<html>
+		<head>
+				<title></title>
+				<link rel="canonical" href="https://yourwebsite.com/">
+				<link rel="stylesheet" href="style.css">
+
+				<meta charset="utf-8">
+				<meta name="viewport" content="width=device-width, initial-scale=1">
+				<meta name="description" content="">
+				<meta name="robots" content="noindex, nofollow">				
+
+				<meta content="" property="og:title">
+				<meta content="" property="og:description">
+				<meta content="" property='og:url'>
+				<meta content="" property='og:site_name'>      
+		</head>
+		
+		<body>
+
+		</body>
+</html>

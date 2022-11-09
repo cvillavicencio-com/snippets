@@ -3,4 +3,4 @@
 # key: od
 # --
 
-or die(mysqli_error($0));
+or die(mysqli_error($0))

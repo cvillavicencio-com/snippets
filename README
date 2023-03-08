@@ -9,6 +9,7 @@ css-mode
 org-mode
 - plantuml: block to eval and render diagrams
 - uml: block to write diagram in plantuml
+- cid: create block to set CUSTOM_ID
 
 php-mode
 - display_errors: show errors in page

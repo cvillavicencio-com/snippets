@@ -1,0 +1,9 @@
+# -*- mode: snippet -*-
+# name: custom id
+# key: cid
+# --
+
+:PROPERTIES:
+:CUSTOM_ID: $1
+:END:
+$2
